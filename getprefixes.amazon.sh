@@ -1,0 +1,1 @@
+curl -s https://ip-ranges.amazonaws.com/ip-ranges.json --insecure|grep us-west-1 -B1|awk -F'"' '/ip_prefix/{print $4}'

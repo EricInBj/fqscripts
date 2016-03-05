@@ -1,0 +1,1 @@
+for x in `host -t txt _netblocks.google.com`;do echo $x;done|grep ip4|awk -F: '{print $2}'

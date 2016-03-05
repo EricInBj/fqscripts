@@ -1,0 +1,29 @@
+#google
+as15169
+
+#xo communications
+as2828
+
+#facebook
+as32934
+
+#twitter
+as13414
+
+#github
+as36459
+
+#wikimedia
+as43821
+as14907
+as11820
+
+#livestream
+as31970
+as131468
+
+#fastly
+as54113
+
+#leaseweb (xda-developers)
+as30633
