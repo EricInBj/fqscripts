@@ -5,4 +5,4 @@
 用法：./makenetwork.sh {VPN_NAME} /etc/config/network
 
 ##getprefixes.*.sh##
-或者对应网络的网络前缀
+获得对应网络的前缀
